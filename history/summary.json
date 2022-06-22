@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/dgp.ab-inbev.com",
     "slug": "dgp",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 673,
-    "timeDay": 621,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 653,
+    "timeDay": 512,
+    "timeWeek": 661,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-06-21": 14,
       "2022-06-14": 1
     }
   }
